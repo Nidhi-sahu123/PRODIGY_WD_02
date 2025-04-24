@@ -1,6 +1,8 @@
 # PRODIGY_WD_02
 This is a simple web application for a stopwatch built using HTML, CSS, and JavaScript. It allows users to accurately measure and record time intervals, as well as track and display lap times.
 
+_____________________________________________________________________________________________________________________________
+
 Table of Contents:
 
 Introduction
@@ -11,15 +13,23 @@ Project_Images
 Contributing
 Author
 
+_____________________________________________________________________________________________________________________________
+
 Introduction:
 
 This project contains the source code for a stopwatch web application. It offers an engaging experience with a simple interface.
 
+______________________________________________________________________________________________________________________________
+
 Features:
 
 Start, pause, and reset the stopwatch.
+
 Record and display lap times.
+
 User-friendly interface.
+
+______________________________________________________________________________________________________________________________
 
 Installation:
 
@@ -30,11 +40,15 @@ Click the "Start" button to begin the stopwatch.
 Click the "Lap" button to record lap times.
 Click the "Reset" button to reset the stopwatch and clear lap times.
 
+______________________________________________________________________________________________________________________________
+
 Files_Included:
 
 index.html: HTML file containing the structure of the web application.
 style.css: CSS file containing styles for the web application.
 script.js: JavaScript file containing functionality for the stopwatch.
+
+______________________________________________________________________________________________________________________________
 
 Project photos:
 
@@ -45,7 +59,7 @@ Project photos:
 
 ![Screenshot 2025-04-24 201530](https://github.com/user-attachments/assets/a4a4e22e-4e07-47f9-a4d9-597c9bce077d)
 
-
+______________________________________________________________________________________________________________________________
 
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
