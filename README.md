@@ -36,7 +36,11 @@ index.html: HTML file containing the structure of the web application.
 style.css: CSS file containing styles for the web application.
 script.js: JavaScript file containing functionality for the stopwatch.
 
-Contributing
+Project photos:
+![Screenshot 2025-04-24 201530](https://github.com/user-attachments/assets/993cdbc6-73b9-4a0e-81ba-7fb4f86b5859)
+
+
+
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
 Author
