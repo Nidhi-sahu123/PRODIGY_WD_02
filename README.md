@@ -37,7 +37,13 @@ style.css: CSS file containing styles for the web application.
 script.js: JavaScript file containing functionality for the stopwatch.
 
 Project photos:
-![Screenshot 2025-04-24 201530](https://github.com/user-attachments/assets/993cdbc6-73b9-4a0e-81ba-7fb4f86b5859)
+
+
+![Screenshot 2025-04-24 201600](https://github.com/user-attachments/assets/bc51745f-be92-4e24-aee7-449a165cd4fc)
+
+![Screenshot 2025-04-24 201548](https://github.com/user-attachments/assets/1bfe6633-b006-44ab-8df4-673af005abe1)
+
+![Screenshot 2025-04-24 201530](https://github.com/user-attachments/assets/a4a4e22e-4e07-47f9-a4d9-597c9bce077d)
 
 
 
